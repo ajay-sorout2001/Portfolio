@@ -24,6 +24,10 @@ export default function Projects() {
             <b> React.js and CSS</b> with reusable components, resume download,
             and responsive layout.
           </p>
+          <a href="https://github.com/ajay-sorout2001/Portfolio" target="_blank" rel="noreferrer">
+  <button>View Code</button>
+</a>
+
 
         </div>
 
